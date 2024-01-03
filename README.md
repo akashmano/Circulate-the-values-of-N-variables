@@ -31,6 +31,7 @@ distance=math.sqrt(((l2[0]-l1[0])**2)+((l2[1]-l1[1])**2))
 print("{:.2f}".format(distance))
 ``````
 ## Output:
-![Alt text](<Screenshot 2024-01-03 154436.png>)
+![Screenshot 2024-01-03 154436](https://github.com/akashmano/Circulate-the-values-of-N-variables/assets/137408306/801b6317-d962-4dfd-86ee-e1677d8bc7d8)
+
 ## Result:
 Thus the circulate the value of n variable is found
