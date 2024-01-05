@@ -22,8 +22,9 @@ Decide whether to repeat the circulation process for a certain number of iterati
 ## Program:
 ``````
 #Program to find the distance between two points.
-#Developed by: subishesh P
-#RegisterNumber: 23003621
+#Developed by: AKASH.M
+#RegisterNumber: 23004227
+
 import math
 l2=[10,6]
 l1=[4,2]
@@ -31,7 +32,7 @@ distance=math.sqrt(((l2[0]-l1[0])**2)+((l2[1]-l1[1])**2))
 print("{:.2f}".format(distance))
 ``````
 ## Output:
-![Screenshot 2024-01-03 154436](https://github.com/akashmano/Circulate-the-values-of-N-variables/assets/137408306/801b6317-d962-4dfd-86ee-e1677d8bc7d8)
+![Screenshot 2024-01-05 133551](https://github.com/akashmano/Circulate-the-values-of-N-variables/assets/137408306/3e8cb84d-6135-4ff8-a8bc-cc12182bf0a0)
 
 ## Result:
 Thus the circulate the value of n variable is found
